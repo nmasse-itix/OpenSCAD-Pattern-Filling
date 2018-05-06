@@ -44,7 +44,7 @@ module mypattern(r) {
 }
 ```
 
-Instanciate it once in order to check it matches your expectations:
+Instanciate it once, in order to check it matches your expectations:
 ```
 r = 2;
 mypattern(r);
@@ -87,7 +87,7 @@ intersection() {
 
 ![a clean cut of our pattern](documentation/images/tutorial_clean_cut.png?raw=true)
 
-Check [the complete source code](examples/tutorial.scad) for more information.
+Check [the complete source code](examples/tutorial/tutorial.scad) for more information.
 
 ## Limitations
 
