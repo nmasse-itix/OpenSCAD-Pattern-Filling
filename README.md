@@ -8,7 +8,7 @@ surface.
 Patterns are widely used in common objects, and so are the possible usages of
 this module:
  - [alveolar reinforcement](examples/reinforcement/)
- - moucharabieh
+ - [moucharabieh](examples/moucharabieh/)
  - decorative patterns
  - surface texturing
 
