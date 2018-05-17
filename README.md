@@ -9,7 +9,7 @@ Patterns are widely used in common objects, and so are the possible usages of
 this module:
  - [alveolar reinforcement](examples/reinforcement/)
  - [moucharabieh](examples/moucharabieh/)
- - decorative patterns
+ - [decorative patterns](examples/decorative/)
  - surface texturing
 
 ## Examples
